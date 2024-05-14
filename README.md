@@ -5,8 +5,10 @@ Business Case: Netflix - Data Exploration and Visualisation
 Analyzing the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
 
 📚 About Data
+
 This tabular dataset consists of data as of mid-2021, about 8807 movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 
+![image](https://github.com/CoderKartik9/Python-Projects/assets/154755044/151465b1-9d03-488b-b39e-6dee9dfe27af)
 
 Business Recommendations
   
