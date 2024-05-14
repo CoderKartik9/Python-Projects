@@ -2,7 +2,13 @@ Business Case: Netflix - Data Exploration and Visualisation
 
 🎯 Objective
 
-Analyzing the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
+Analyzing the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
+
+📝 Project Report
+
+You can access the complete project python file here - Python
+
+You can access the complete project in pdf format here - Report
 
 📚 About Data
 
